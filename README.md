@@ -273,17 +273,6 @@ This RAG system is ideal for:
 
 ---
 
-## 🔮 Future Enhancements
-
-- [ ] Multi-article RAG (expand beyond single Wikipedia page)
-- [ ] Hybrid retrieval (dense + sparse/keyword)
-- [ ] Re-ranking retrieved chunks by relevance
-- [ ] Query expansion for better semantic matching
-- [ ] Streaming generation for longer summaries
-- [ ] Web UI for interactive queries
-
----
-
 ## 📝 License
 
 This project is part of an academic assignment for Data Science Python coursework.
@@ -302,5 +291,5 @@ This project is part of an academic assignment for Data Science Python coursewor
 
 ## 🔗 Related
 
-- **Task 1**: [Multi-Agent Research Lab](https://github.com/[your-username]/multiagent_research-lab)
+- **Task 1**: [Multi-Agent Research Lab](https://github.com/bmperaltillap-wq/multiagent_research-lab)
 - **Bonus**: See `outputs/reflection.md` for methodology comparison
