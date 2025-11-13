@@ -1,0 +1,47 @@
+{
+  "query": "Explain federated learning challenges in healthcare.",
+  "n_results": 5,
+  "retrieved_chunks": [
+    {
+      "chunk_id": 0,
+      "text": "to improve the efficiency and effectiveness of industrial process while guaranteeing a high level of safety. Nevertheless, privacy of sensitive data for industries and manufacturing companies is of paramount importance. Federated learning algorithms can be applied to these problems as they do not di...",
+      "metadata": {
+        "chunk_id": 12,
+        "title": "Federated learning"
+      }
+    },
+    {
+      "chunk_id": 1,
+      "text": "Federated learning (also known as collaborative learning) is a machine learning technique in a setting where multiple entities (often called clients) collaboratively train a model while keeping their data decentralized, rather than centrally stored. A defining characteristic of federated learning is...",
+      "metadata": {
+        "chunk_id": 0,
+        "title": "Federated learning"
+      }
+    },
+    {
+      "chunk_id": 2,
+      "text": "learning requires frequent communication between nodes during the learning process. Thus, it requires not only enough local computing power and memory, but also high bandwidth connections to be able to exchange parameters of the machine learning model. However, the technology also avoids data commun...",
+      "metadata": {
+        "chunk_id": 6,
+        "title": "Federated learning"
+      }
+    },
+    {
+      "chunk_id": 3,
+      "text": "sparsification and quantization methods, where the machine learning models are sparsified and/or compressed before they are shared with other nodes. Developing ultra-light DNN architectures is essential for device-/edge- learning and recent work recognises both the energy efficiency requirements for...",
+      "metadata": {
+        "chunk_id": 11,
+        "title": "Federated learning"
+      }
+    },
+    {
+      "chunk_id": 4,
+      "text": "federated learning In the decentralized federated learning setting, the nodes are able to coordinate themselves to obtain the global model. This setup prevents single point failures as the model updates are exchanged only between interconnected nodes without the orchestration of the central server. ...",
+      "metadata": {
+        "chunk_id": 2,
+        "title": "Federated learning"
+      }
+    }
+  ],
+  "timestamp": "2025-11-13T04:24:38.924774"
+}

@@ -1,0 +1,30 @@
+# RAG Wikipedia Lab - Requirements
+# Python 3.10+
+
+# Wikipedia data
+wikipedia-api
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+chromadb==0.4.22
+
+# LangChain
+langchain==0.1.0
+langchain-community==0.0.20
+
+# LLM integration
+transformers
+huggingface_hub>=0.19.0
+
+# Data processing
+pandas
+numpy
+
+# Markdown
+markdown
+
+# Optional
+jupyter
+notebook
